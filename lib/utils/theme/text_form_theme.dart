@@ -34,7 +34,6 @@ class TTextformFieldTheme {
         borderSide: const BorderSide(width: 1.0, color: Colors.orange)),
   );
 
-
   // Dark Screen
   static InputDecorationTheme darkInputDecoratorTheme = InputDecorationTheme(
     errorMaxLines: 3,
@@ -65,8 +64,4 @@ class TTextformFieldTheme {
         borderRadius: BorderRadius.circular(14),
         borderSide: const BorderSide(width: 1.0, color: Colors.orange)),
   );
-
-
-
-
 }
